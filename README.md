@@ -8,3 +8,5 @@
 ```
 sudo npm run start
 ```
+## 静态资源地址
+[https://localhost/1.png](https://localhost/1.png)
